@@ -58,5 +58,5 @@ All builds are automatically produced by:
 
 ## Notes
 
-* Kernel source is in the [`android12-5.10-lts`](https://github.com/ESK-Project/android12-5.10-lts) repo.
+* Kernel source is in the [`android12-5.10-gki`](https://github.com/ESK-Project/android12-5.10-gki) repo.
 * When reporting issues, include device, ROM + Android version, build tag, and logs (dmesg/last\_kmsg).
