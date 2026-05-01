@@ -52,7 +52,7 @@ fastboot flash boot <boot image>
 ## Builds
 
 All builds are automatically produced by:
-[`ESK-Project/esk_builder@gki`](https://github.com/ESK-Project/esk_builder/tree/gki)
+[`ESK-Project/esk_builder@main`](https://github.com/ESK-Project/esk_builder/tree/main)
 
 ---
 
