@@ -1,15 +1,6 @@
-# Generic ESK Kernel Release Repo
-
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ESK-Project/gki_kernel_builder/release.yml) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/xaga_kernel)
+# Generic ALC Kernel Release Repo
 
 An custom android12-5.10 Generic Kernel Image
-
----
-
-## Download
-
-Get the latest **AnyKernel3 package** or **boot image** here:
-- [Latest GitHub Release](https://github.com/ESK-Project/gki-releases/releases/latest)
 
 ---
 
@@ -47,16 +38,10 @@ fastboot flash boot <boot image>
 > fastboot flash boot_b boot.img   # if slot is b
 > ```
 
----
-
-## Builds
-
-All builds are automatically produced by:
-[`ESK-Project/esk_builder@main`](https://github.com/ESK-Project/esk_builder/tree/main)
 
 ---
 
 ## Notes
 
-* Kernel source is in the [`android12-5.10-gki`](https://github.com/ESK-Project/android12-5.10-gki) repo.
+* Kernel source is in the [`android12-5.10-gki`](https://github.com/A1cInt/alc_android12-5.10-gki) repo.
 * When reporting issues, include device, ROM + Android version, build tag, and logs (dmesg/last\_kmsg).
